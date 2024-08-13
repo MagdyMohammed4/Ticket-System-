@@ -1,0 +1,402 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16654953-8BE1-4131-AAD7-A06A1FB7C1B7}|TicketSystem.API\\TicketSystem.API.csproj|C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\ticketsystem.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16654953-8BE1-4131-AAD7-A06A1FB7C1B7}|TicketSystem.API\\TicketSystem.API.csproj|solutionrelative:ticketsystem.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8EBC9C-3A69-4E11-A165-602ED3F84C8D}|TicketSystem.Infrastructure\\TicketSystem.Infrastructure.csproj|c:\\users\\magdy\\desktop\\test\\ticketsystem\\ticketsystem.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8EBC9C-3A69-4E11-A165-602ED3F84C8D}|TicketSystem.Infrastructure\\TicketSystem.Infrastructure.csproj|solutionrelative:ticketsystem.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16654953-8BE1-4131-AAD7-A06A1FB7C1B7}|TicketSystem.API\\TicketSystem.API.csproj|c:\\users\\magdy\\desktop\\test\\ticketsystem\\ticketsystem.api\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16654953-8BE1-4131-AAD7-A06A1FB7C1B7}|TicketSystem.API\\TicketSystem.API.csproj|solutionrelative:ticketsystem.api\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7AE070-D566-4DBC-BFA3-E595FD30B6F2}|TicketSystem.Application\\TicketSystem.Application.csproj|C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\ticketsystem.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7AE070-D566-4DBC-BFA3-E595FD30B6F2}|TicketSystem.Application\\TicketSystem.Application.csproj|solutionrelative:ticketsystem.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7AE070-D566-4DBC-BFA3-E595FD30B6F2}|TicketSystem.Application\\TicketSystem.Application.csproj|C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\ticketsystem.application\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7AE070-D566-4DBC-BFA3-E595FD30B6F2}|TicketSystem.Application\\TicketSystem.Application.csproj|solutionrelative:ticketsystem.application\\services\\ticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7AE070-D566-4DBC-BFA3-E595FD30B6F2}|TicketSystem.Application\\TicketSystem.Application.csproj|C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\ticketsystem.application\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7AE070-D566-4DBC-BFA3-E595FD30B6F2}|TicketSystem.Application\\TicketSystem.Application.csproj|solutionrelative:ticketsystem.application\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16654953-8BE1-4131-AAD7-A06A1FB7C1B7}|TicketSystem.API\\TicketSystem.API.csproj|C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\ticketsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16654953-8BE1-4131-AAD7-A06A1FB7C1B7}|TicketSystem.API\\TicketSystem.API.csproj|solutionrelative:ticketsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8EBC9C-3A69-4E11-A165-602ED3F84C8D}|TicketSystem.Infrastructure\\TicketSystem.Infrastructure.csproj|C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\ticketsystem.infrastructure\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8EBC9C-3A69-4E11-A165-602ED3F84C8D}|TicketSystem.Infrastructure\\TicketSystem.Infrastructure.csproj|solutionrelative:ticketsystem.infrastructure\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8EBC9C-3A69-4E11-A165-602ED3F84C8D}|TicketSystem.Infrastructure\\TicketSystem.Infrastructure.csproj|C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\ticketsystem.infrastructure\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8EBC9C-3A69-4E11-A165-602ED3F84C8D}|TicketSystem.Infrastructure\\TicketSystem.Infrastructure.csproj|solutionrelative:ticketsystem.infrastructure\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7AE070-D566-4DBC-BFA3-E595FD30B6F2}|TicketSystem.Application\\TicketSystem.Application.csproj|c:\\users\\magdy\\desktop\\test\\ticketsystem\\ticketsystem.application\\contract\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7AE070-D566-4DBC-BFA3-E595FD30B6F2}|TicketSystem.Application\\TicketSystem.Application.csproj|solutionrelative:ticketsystem.application\\contract\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8EBC9C-3A69-4E11-A165-602ED3F84C8D}|TicketSystem.Infrastructure\\TicketSystem.Infrastructure.csproj|C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\ticketsystem.infrastructure\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8EBC9C-3A69-4E11-A165-602ED3F84C8D}|TicketSystem.Infrastructure\\TicketSystem.Infrastructure.csproj|solutionrelative:ticketsystem.infrastructure\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8215AB-D1AF-4757-B730-59FF36CD36EC}|TicketSystem.DTOs\\TicketSystem.DTOs.csproj|C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\ticketsystem.dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8215AB-D1AF-4757-B730-59FF36CD36EC}|TicketSystem.DTOs\\TicketSystem.DTOs.csproj|solutionrelative:ticketsystem.dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8215AB-D1AF-4757-B730-59FF36CD36EC}|TicketSystem.DTOs\\TicketSystem.DTOs.csproj|C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\ticketsystem.dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8215AB-D1AF-4757-B730-59FF36CD36EC}|TicketSystem.DTOs\\TicketSystem.DTOs.csproj|solutionrelative:ticketsystem.dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7AE070-D566-4DBC-BFA3-E595FD30B6F2}|TicketSystem.Application\\TicketSystem.Application.csproj|C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\ticketsystem.application\\services\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7AE070-D566-4DBC-BFA3-E595FD30B6F2}|TicketSystem.Application\\TicketSystem.Application.csproj|solutionrelative:ticketsystem.application\\services\\iticketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7AE070-D566-4DBC-BFA3-E595FD30B6F2}|TicketSystem.Application\\TicketSystem.Application.csproj|C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\ticketsystem.application\\contract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7AE070-D566-4DBC-BFA3-E595FD30B6F2}|TicketSystem.Application\\TicketSystem.Application.csproj|solutionrelative:ticketsystem.application\\contract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7AE070-D566-4DBC-BFA3-E595FD30B6F2}|TicketSystem.Application\\TicketSystem.Application.csproj|C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\ticketsystem.application\\contract\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7AE070-D566-4DBC-BFA3-E595FD30B6F2}|TicketSystem.Application\\TicketSystem.Application.csproj|solutionrelative:ticketsystem.application\\contract\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7AE070-D566-4DBC-BFA3-E595FD30B6F2}|TicketSystem.Application\\TicketSystem.Application.csproj|C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\ticketsystem.application\\contract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7AE070-D566-4DBC-BFA3-E595FD30B6F2}|TicketSystem.Application\\TicketSystem.Application.csproj|solutionrelative:ticketsystem.application\\contract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58947312-7E1B-47A0-8E92-87929933A1DC}|TicketSystem.Context\\TicketSystem.Context.csproj|C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\ticketsystem.context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58947312-7E1B-47A0-8E92-87929933A1DC}|TicketSystem.Context\\TicketSystem.Context.csproj|solutionrelative:ticketsystem.context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367303C7-F93B-49D7-9C3A-777910F6E30A}|TicketSystem.Models\\TicketSystem.Models.csproj|C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\ticketsystem.models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367303C7-F93B-49D7-9C3A-777910F6E30A}|TicketSystem.Models\\TicketSystem.Models.csproj|solutionrelative:ticketsystem.models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367303C7-F93B-49D7-9C3A-777910F6E30A}|TicketSystem.Models\\TicketSystem.Models.csproj|C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\ticketsystem.models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367303C7-F93B-49D7-9C3A-777910F6E30A}|TicketSystem.Models\\TicketSystem.Models.csproj|solutionrelative:ticketsystem.models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16654953-8BE1-4131-AAD7-A06A1FB7C1B7}|TicketSystem.API\\TicketSystem.API.csproj|C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\ticketsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16654953-8BE1-4131-AAD7-A06A1FB7C1B7}|TicketSystem.API\\TicketSystem.API.csproj|solutionrelative:ticketsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58947312-7E1B-47A0-8E92-87929933A1DC}|TicketSystem.Context\\TicketSystem.Context.csproj|C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\ticketsystem.context\\ticketsystem.context.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58947312-7E1B-47A0-8E92-87929933A1DC}|TicketSystem.Context\\TicketSystem.Context.csproj|solutionrelative:ticketsystem.context\\ticketsystem.context.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketService.cs",
+              "DocumentMoniker": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Application\\Services\\TicketService.cs",
+              "RelativeDocumentMoniker": "TicketSystem.Application\\Services\\TicketService.cs",
+              "ToolTip": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Application\\Services\\TicketService.cs",
+              "RelativeToolTip": "TicketSystem.Application\\Services\\TicketService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T17:24:52.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "TicketSystem.API\\Program.cs",
+              "ToolTip": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.API\\Program.cs",
+              "RelativeToolTip": "TicketSystem.API\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwD0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:58:45.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Application\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "TicketSystem.Application\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Application\\Services\\IUserService.cs",
+              "RelativeToolTip": "TicketSystem.Application\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:44:45.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "TicketSystem.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "TicketSystem.Application\\Services\\UserService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAADwv2MAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:40:51.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.API\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "TicketSystem.API\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.API\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "TicketSystem.API\\Controllers\\TicketController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAEYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T11:01:04.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Infrastructure\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "TicketSystem.Infrastructure\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Infrastructure\\UnitOfWork.cs",
+              "RelativeToolTip": "TicketSystem.Infrastructure\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:59:26.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TicketSystem.API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TicketSystem.API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAwwFMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T19:51:48.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Infrastructure\\UserRepository.cs",
+              "RelativeDocumentMoniker": "TicketSystem.Infrastructure\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Infrastructure\\UserRepository.cs",
+              "RelativeToolTip": "TicketSystem.Infrastructure\\UserRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:56:55.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TicketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Infrastructure\\TicketRepository.cs",
+              "RelativeDocumentMoniker": "TicketSystem.Infrastructure\\TicketRepository.cs",
+              "ToolTip": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Infrastructure\\TicketRepository.cs",
+              "RelativeToolTip": "TicketSystem.Infrastructure\\TicketRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T10:48:41.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Application\\Contract\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "TicketSystem.Application\\Contract\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Application\\Contract\\IUnitOfWork.cs",
+              "RelativeToolTip": "TicketSystem.Application\\Contract\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:54:39.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Infrastructure\\Repository.cs",
+              "RelativeDocumentMoniker": "TicketSystem.Infrastructure\\Repository.cs",
+              "ToolTip": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Infrastructure\\Repository.cs",
+              "RelativeToolTip": "TicketSystem.Infrastructure\\Repository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T10:29:26.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.DTOs\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "TicketSystem.DTOs\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.DTOs\\UserLoginDto.cs",
+              "RelativeToolTip": "TicketSystem.DTOs\\UserLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:23:48.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDtos.cs",
+              "DocumentMoniker": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.DTOs\\UserDtos.cs",
+              "RelativeDocumentMoniker": "TicketSystem.DTOs\\UserDtos.cs",
+              "ToolTip": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.DTOs\\UserDtos.cs",
+              "RelativeToolTip": "TicketSystem.DTOs\\UserDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T03:22:43.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITicketService.cs",
+              "DocumentMoniker": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Application\\Services\\ITicketService.cs",
+              "RelativeDocumentMoniker": "TicketSystem.Application\\Services\\ITicketService.cs",
+              "ToolTip": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Application\\Services\\ITicketService.cs",
+              "RelativeToolTip": "TicketSystem.Application\\Services\\ITicketService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T17:23:42.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Application\\Contract\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "TicketSystem.Application\\Contract\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Application\\Contract\\IUserRepository.cs",
+              "RelativeToolTip": "TicketSystem.Application\\Contract\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T13:33:52.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITicketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Application\\Contract\\ITicketRepository.cs",
+              "RelativeDocumentMoniker": "TicketSystem.Application\\Contract\\ITicketRepository.cs",
+              "ToolTip": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Application\\Contract\\ITicketRepository.cs",
+              "RelativeToolTip": "TicketSystem.Application\\Contract\\ITicketRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T17:20:20.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Application\\Contract\\IRepository.cs",
+              "RelativeDocumentMoniker": "TicketSystem.Application\\Contract\\IRepository.cs",
+              "ToolTip": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Application\\Contract\\IRepository.cs",
+              "RelativeToolTip": "TicketSystem.Application\\Contract\\IRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T17:04:33.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Context\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "TicketSystem.Context\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Context\\ApplicationContext.cs",
+              "RelativeToolTip": "TicketSystem.Context\\ApplicationContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:46:03.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "TicketSystem.Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Models\\Ticket.cs",
+              "RelativeToolTip": "TicketSystem.Models\\Ticket.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:31:16.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "TicketSystem.Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Models\\AppUser.cs",
+              "RelativeToolTip": "TicketSystem.Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:30:44.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TicketSystem.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.API\\appsettings.json",
+              "RelativeToolTip": "TicketSystem.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T14:57:05.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TicketSystem.Context",
+              "DocumentMoniker": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Context\\TicketSystem.Context.csproj",
+              "RelativeDocumentMoniker": "TicketSystem.Context\\TicketSystem.Context.csproj",
+              "ToolTip": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Context\\TicketSystem.Context.csproj",
+              "RelativeToolTip": "TicketSystem.Context\\TicketSystem.Context.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-09T00:30:18.313Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

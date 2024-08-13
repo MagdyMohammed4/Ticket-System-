@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketSystem.Models", "TicketSystem.Models\TicketSystem.Models.csproj", "{367303C7-F93B-49D7-9C3A-777910F6E30A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketSystem.Context", "TicketSystem.Context\TicketSystem.Context.csproj", "{58947312-7E1B-47A0-8E92-87929933A1DC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketSystem.API", "TicketSystem.API\TicketSystem.API.csproj", "{16654953-8BE1-4131-AAD7-A06A1FB7C1B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketSystem.Application", "TicketSystem.Application\TicketSystem.Application.csproj", "{7B7AE070-D566-4DBC-BFA3-E595FD30B6F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketSystem.Infrastructure", "TicketSystem.Infrastructure\TicketSystem.Infrastructure.csproj", "{5A8EBC9C-3A69-4E11-A165-602ED3F84C8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketSystem.DTOs", "TicketSystem.DTOs\TicketSystem.DTOs.csproj", "{5A8215AB-D1AF-4757-B730-59FF36CD36EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{367303C7-F93B-49D7-9C3A-777910F6E30A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{367303C7-F93B-49D7-9C3A-777910F6E30A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{367303C7-F93B-49D7-9C3A-777910F6E30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{367303C7-F93B-49D7-9C3A-777910F6E30A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58947312-7E1B-47A0-8E92-87929933A1DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58947312-7E1B-47A0-8E92-87929933A1DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58947312-7E1B-47A0-8E92-87929933A1DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58947312-7E1B-47A0-8E92-87929933A1DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16654953-8BE1-4131-AAD7-A06A1FB7C1B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16654953-8BE1-4131-AAD7-A06A1FB7C1B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16654953-8BE1-4131-AAD7-A06A1FB7C1B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16654953-8BE1-4131-AAD7-A06A1FB7C1B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B7AE070-D566-4DBC-BFA3-E595FD30B6F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7AE070-D566-4DBC-BFA3-E595FD30B6F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7AE070-D566-4DBC-BFA3-E595FD30B6F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7AE070-D566-4DBC-BFA3-E595FD30B6F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A8EBC9C-3A69-4E11-A165-602ED3F84C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8EBC9C-3A69-4E11-A165-602ED3F84C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A8EBC9C-3A69-4E11-A165-602ED3F84C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A8EBC9C-3A69-4E11-A165-602ED3F84C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A8215AB-D1AF-4757-B730-59FF36CD36EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8215AB-D1AF-4757-B730-59FF36CD36EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A8215AB-D1AF-4757-B730-59FF36CD36EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A8215AB-D1AF-4757-B730-59FF36CD36EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EC2BF5B-1D9E-4BFC-8E14-A2B6DA8520A6}
+	EndGlobalSection
+EndGlobal

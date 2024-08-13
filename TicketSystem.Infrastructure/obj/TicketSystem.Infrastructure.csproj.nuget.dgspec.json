@@ -1,0 +1,366 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Infrastructure\\TicketSystem.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Application\\TicketSystem.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Application\\TicketSystem.Application.csproj",
+        "projectName": "TicketSystem.Application",
+        "projectPath": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Application\\TicketSystem.Application.csproj",
+        "packagesPath": "C:\\Users\\MAGDY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MAGDY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.DTOs\\TicketSystem.DTOs.csproj": {
+                "projectPath": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.DTOs\\TicketSystem.DTOs.csproj"
+              },
+              "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Models\\TicketSystem.Models.csproj": {
+                "projectPath": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Models\\TicketSystem.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Context\\TicketSystem.Context.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Context\\TicketSystem.Context.csproj",
+        "projectName": "TicketSystem.Context",
+        "projectPath": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Context\\TicketSystem.Context.csproj",
+        "packagesPath": "C:\\Users\\MAGDY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Context\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MAGDY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Models\\TicketSystem.Models.csproj": {
+                "projectPath": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Models\\TicketSystem.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.DTOs\\TicketSystem.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.DTOs\\TicketSystem.DTOs.csproj",
+        "projectName": "TicketSystem.DTOs",
+        "projectPath": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.DTOs\\TicketSystem.DTOs.csproj",
+        "packagesPath": "C:\\Users\\MAGDY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MAGDY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Infrastructure\\TicketSystem.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Infrastructure\\TicketSystem.Infrastructure.csproj",
+        "projectName": "TicketSystem.Infrastructure",
+        "projectPath": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Infrastructure\\TicketSystem.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\MAGDY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MAGDY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Application\\TicketSystem.Application.csproj": {
+                "projectPath": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Application\\TicketSystem.Application.csproj"
+              },
+              "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Context\\TicketSystem.Context.csproj": {
+                "projectPath": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Context\\TicketSystem.Context.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "HtmlRenderer.Core": {
+              "target": "Package",
+              "version": "[1.5.0.6, )"
+            },
+            "HtmlRenderer.WinForms": {
+              "target": "Package",
+              "version": "[1.5.0.6, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Models\\TicketSystem.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Models\\TicketSystem.Models.csproj",
+        "projectName": "TicketSystem.Models",
+        "projectPath": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Models\\TicketSystem.Models.csproj",
+        "packagesPath": "C:\\Users\\MAGDY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MAGDY\\Desktop\\Test\\TicketSystem\\TicketSystem.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MAGDY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
